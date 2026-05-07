@@ -6,6 +6,8 @@
 
     <link rel="stylesheet" href="./css/main.css" />
 
+    <script src="./js/script.js"></script>
+
     <title>ESPORTES TOTAIS - LOGIN</title>
   </head>
 
