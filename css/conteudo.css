@@ -9,7 +9,6 @@
     grid-template-columns: repeat(3, 1fr);
     column-gap: 1rem;
     position: relative;
-
 }
 
 .conteudo__sec{
@@ -69,5 +68,5 @@
     padding: 1rem;
     border-radius: 10px;
     border: 0.2rem solid #fff;
- 
+
 }
